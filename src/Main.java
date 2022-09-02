@@ -42,6 +42,12 @@ public class Main {
         x12+=5;
         System.out.println(x12);
         int xx1=x12>5 ? 10:19;
+//
+        ///
+        //
+        //
+        //
+        //
 
 
 
