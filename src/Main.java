@@ -43,6 +43,9 @@ public class Main {
         System.out.println(x12);
         int xx1=x12>5 ? 10:19;
 
+
+
+
     Scanner scanner = new Scanner  (System.in);
     String Line = scanner.nextLine();
         System.out.println(Line + " - your string'");
